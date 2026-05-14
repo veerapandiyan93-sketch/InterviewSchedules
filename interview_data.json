@@ -1,0 +1,14 @@
+[
+  {
+    "id": "4f8f932a-fca6-418b-b61a-56a5832dfd7c",
+    "Candidate": "Bob Smith",
+    "Roll": "Data Engineering",
+    "Panel": "9123456780",
+    "Interviewers": "XYZ Ltd",
+    "Date": "2026-05-15",
+    "Day": "Friday",
+    "Time": "11:00",
+    "Support": "Tech Support",
+    "Status": "Pending"
+  }
+]
